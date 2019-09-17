@@ -1,0 +1,135 @@
+#style-switcher h2 a { background: #13b5ea none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #13b5ea none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+a, a:hover {
+    color: #13b5ea;
+    text-decoration: none;
+}
+
+/*START MENU*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    text-align: center;
+    background-color: transparent;
+    border-bottom: 2px solid;
+    transition: 0.8s;
+}
+.menu-top li a:hover { color: #2d308c!important }
+.navbar-default.menu-shrink li a:hover { color: #2d308c !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #2d308c }
+/*END MENU*/
+
+
+
+.btn-light-bg {background: #ed145b none repeat scroll 0 0;border: 2px solid #ed145b;}
+	
+.section-title h2 span { color: #2D308C }
+
+.section-title div {background: #2D308C  none repeat scroll 0 0;
+    box-shadow: 8px 4px 3px rgba(42,40,130,0.93);}
+
+.btn-home-bg {
+    background: #2d308c none repeat scroll 0 0;
+    border: 1px solid #2d308c;
+    font-size:16px;
+}
+
+.single_about:hover i {
+    background: #ed145b;
+    border: 1px solid #ed145b;
+}
+.single_about:hover h4 { color: #ed145b; }
+
+
+.progress-bar > span {background: #2D308C none repeat scroll 0 0;}
+
+
+.single_feature i 
+{
+    background-color: #2d308c;
+}
+
+.carousel-indicators .active {
+    border: 1px solid #ed145b;
+    background: #ed145b none repeat scroll 0 0;
+}
+.single_service i {color:#005596;}
+
+.our_work_menu ul li:hover, .our_work_menu ul li.active{
+	border-color: #ed145b ;
+	color:#ed145b;
+}
+
+
+.counter i {color: #005595;}
+
+.counter:hover i {background: #005595 none repeat scroll 0 0;border: 1px solid #13b5ea;}
+
+.single_team .social_link a:hover{
+	background: #13b5ea;
+	border-color: #13b5ea;
+}
+
+
+.signup_form input:focus {
+    border-color:#13b5ea;
+}
+.color-two {
+    background: #ed145b;
+    color: #fff;
+}
+.color-three {
+    background: #ed145b;
+    color: #fff;
+}
+.pricing-btn  button {
+    background: #ed145b;
+    border: 1px solid #ed145b;}
+	
+.home_blog_text span {color: #ed145b;}	
+
+.buy_now {
+    background: #2D308C none repeat scroll 0 0;
+    padding: 86px;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+    border-color:  #13b5ea;
+    box-shadow: none;
+    outline: 0 none;
+}
+
+.btn-contact-bg {
+	background: #005595 none repeat scroll 0 0 !important;
+	border: 1px solid #005595 !important;}
+
+
+
+
+.irs-title-line {
+    width: 180px;
+    height: 2px;
+    background: #333333;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.irs-title-line .irs-title-icon {
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    margin-left: -25px;
+    width: 50px;
+    height: 50px;
+    background: #ffffff;
+}
+.irs-title-line .irs-title-icon i {
+    color: #F4A460;
+    font-size: 30px;
+    line-height: 50px;
+}

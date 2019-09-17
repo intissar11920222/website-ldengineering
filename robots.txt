@@ -1,0 +1,7 @@
+User-Agent: * 
+Disallow: /team.php
+User-agent: *
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /images/
